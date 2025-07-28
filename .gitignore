@@ -2,3 +2,4 @@ data/dair-ai___emotion/
 .env
 .venv/
 tempCodeRunnerFile.py
+wandb
